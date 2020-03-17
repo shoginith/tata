@@ -7,9 +7,66 @@
     <string name="next">Next</string>
     <string name="previous">Previous</string>
 
+    <!--main activity-->
     <string name="hello_first_fragment">Hello first fragment</string>
     <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
     <string name="main_password">password</string>
     <string name="main_username">username</string>
     <string name="main_button_text">Log In</string>
+
+    <!--patient activity-->
+
+    <string name="title_activity_patient">PatientActivity</string>
+    <string name="patient_name">Patient Name</string>
+    <string name="button_main">Next</string>
+    <string name="dehydration_level">Current Dehydration Level:</string>
+    <string name="room_number">Room number:</string>
+    <string name="gender">Gender:</string>
+    <string name="age">Age:</string>
+    <string name="birthday">Birthday</string>
+    <string name="medication">Medication:</string>
+    <string name="medical_background">Medical Background</string>
+    <string name="history">History</string>
+    <string name="patient_medication">Afebril
+    \n
+    Solitium
+    \n
+    Corona
+        \n
+        Cocuouc
+        \n
+        encor eun
+    </string>
+    <string name="patient_dehydration_level">Medium</string>
+    <string name="patient_room_number">654</string>
+    <string name="patient_gender">F</string>
+    <string name="patient_age">86</string>
+    <string name="patient_history"> chelou
+    </string>
+    <string name="patient_background">Diabetes</string>
+
+
+
+    <!--add activity-->
+
+    <string name="title_activity_add">AddActivity</string>
+    <string name="register">Register</string>
+    <string name="lastname">Lastname</string>
+    <string name="forename">Forename</string>
+    <string name="date_of_birth">Date of birth</string>
+    <string name="gender">Gender</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="other">Other</string>
+    <string name="medications">Medications</string>
+    <string name="num1">Num1</string>
+    <string name="num2">Num2</string>
+    <string name="d1">d1</string>
+    <string name="d2">d2</string>
+    <string name="room_number">Room number</string>
+    <string name="validate">Validate</string>
+    <string name="medical_background">Medical background</string>
+    <string name="cancel">Cancel</string>
+    <string name="add_a_new_patient">Add a new patient</string>
+    <string name="title_activity_overview">OverviewActivity</string>
 </resources>
